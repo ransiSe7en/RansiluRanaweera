@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RansiluRanaweera
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java,PHP - Laravel,Databases,Javascript
-- 📫 How to reach me - ransihowler@gmail.com
+- 📫 How to reach me - ransihowler@gmail.com @ransi_08
 
 <!---
 RansiluRanaweera/RansiluRanaweera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
