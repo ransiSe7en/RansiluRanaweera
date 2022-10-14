@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RansiluRanaweera
+- 👋 Hi, I’m RansiluR anaweera
 - 👀 I’m interested in software development
 - 📫 How to reach me - ransihowler@gmail.com
 - @ransi_07
